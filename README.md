@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BulatovaTati](https://github.com/BulatovaTati)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/tetiana-bulatova](www.linkedin.com/in/tetiana-bulatova)
+- 📝 I regularly write articles on [www.linkedin.com/in/tetiana-bulatova](https://www.linkedin.com/in/tetiana-bulatova)
 
 - 📫 How to reach me **kohodatat@gmail.com**
 
