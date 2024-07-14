@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulatovatati&label=Profile%20views&color=0e75b6&style=flat" alt="bulatovatati" /> </p>
 
-- 🔭 I’m currently working on [GreenHarvest](https://github.com/BulatovaTati/GreenHarvest) and [FoodDelivery](https://github.com/BulatovaTati/food-delivery)
+- 🔭 I’m currently working on [SIMPLY-CHOCOLATE](https://github.com/BulatovaTati/SIMPLY-CHOCOLATE) and [FoodDelivery](https://github.com/BulatovaTati/food-delivery)
 
 - 🌱 I’m currently learning **Javascript and React**
 
