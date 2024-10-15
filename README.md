@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tati</h1>
-<h3 align="center">A passionate Front-End developer with a keen eye for the artistic side of website design.</h3>
+<h3 align="center">A Front-End developer committed to building responsive and user-friendly websites.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bulatovatati&label=Profile%20views&color=0e75b6&style=flat" alt="bulatovatati" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bulatovatati&label=Profile%20views&color=0e75b6&style=flat" alt="bulatovatati" /> </p>
 
 - 🔭 I’m currently working on [FoodDelivery](https://github.com/BulatovaTati/food-delivery)
 - 🌱 I’m currently improving my skills in **JavaScript and React**
