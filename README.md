@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [FoodDelivery](https://github.com/BulatovaTati/food-delivery)
 - 🌱 I’m currently improving my skills in **JavaScript and React**
-- 👨‍💻 All of my projects are available at [https://github.com/BulatovaTati](https://github.com/BulatovaTati)
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/tetiana-bulatova)
 - 📫 How to reach me: [kohodatat@gmail.com](mailto:kohodatat@gmail.com)
 
