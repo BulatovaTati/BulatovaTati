@@ -22,6 +22,7 @@ I believe in continuous learning and collaboration. I'm excited to connect with 
 I'm eager to connect with fellow developers and tech enthusiasts! Feel free to reach out if you want to collaborate or share insights.
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://t.me/TatiBulatova" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Telegram_logo.svg" alt="telegram" height="30" width="40" /></a>
 <p align="left">
 <a href="https://codepen.io/bulatovatati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bulatovatati" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tetiana-bulatova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tetiana-bulatova" height="30" width="40" /></a>
