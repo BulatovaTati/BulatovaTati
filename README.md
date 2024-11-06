@@ -3,7 +3,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bulatovatati&label=Profile%20views&color=0e75b6&style=flat" alt="bulatovatati" /> </p>
 
-- 🔭 I’m currently working on [FoodDelivery](https://github.com/BulatovaTati/food-delivery)
 - 🌱 I’m currently improving my skills in **JavaScript and React**
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/tetiana-bulatova)
 - 📫 How to reach me: [kohodatat@gmail.com](mailto:kohodatat@gmail.com)
