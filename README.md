@@ -8,8 +8,9 @@
 - 📫 How to reach me: [kohodatat@gmail.com](mailto:kohodatat@gmail.com)
 
 ## About Me
-I’m a dedicated technology leader with over 5 years of experience as the Head of Neural System at Imperial Holding 😊. 
-I’m currently seeking opportunities as a Front-End Developer. Throughout my career, I’ve had the privilege of leading teams in building innovative websites, successfully managing projects from concept to completion on three occasions.
+I have 7 years of experience as a Project Manager in IT, where I was responsible for planning, coordinating, and delivering projects within cross-functional teams (frontend, backend, and QA). I have worked across the full development lifecycle, including task decomposition, backlog management, prioritization, timeline and risk control, as well as ensuring high-quality delivery.
+
+I also have hands-on experience with Agile methodologies (Scrum and Kanban), as well as tools such as Jira, Confluence, and Notion for task tracking, documentation, and maintaining transparent communication across teams and stakeholders.
 
 ## Let's Connect
 I am excited to connect with fellow professionals in the web development space 🤝. Let’s collaborate, share insights, and contribute to innovative projects in frontend development and AI technologies!
