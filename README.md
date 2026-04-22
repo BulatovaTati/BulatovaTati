@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tati</h1>
-<h3 align="center">A Front-End Developer committed to building responsive and user-friendly websites.</h3>
+<h3 align="center">I’m a Project Manager with technical knowledge.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bulatovatati&label=Profile%20views&color=0e75b6&style=flat" alt="bulatovatati" /> </p>
 
